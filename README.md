@@ -82,27 +82,4 @@ Output :
 
 Solusi persamaan 2x - 4 = 8 adalah x = 6.0
 
-# 3. nilai x
-Mari kita selesaikan kedua persamaan tersebut:
-
- 1. Persamaan non-linier: \(3 + x^3 - x = 4\)
-
-Mari kita gabungkan semua istilah pada satu sisi persamaan:
-
-\[ x^3 - x = 1 \]
-
-Sehingga kita memiliki persamaan kubik:
-
-\[ x^3 - x - 1 = 0 \]
-
-Persamaan ini mungkin memerlukan metode numerik atau grafik untuk mencari akar-akarnya. Dalam kasus ini, kita tidak dapat dengan mudah menemukan solusi eksplisitnya. Anda mungkin perlu menggunakan metode numerik seperti metode Newton atau metode iteratif lainnya untuk mendekati solusi.
-
- 2. Persamaan linier: \(2x - 4 = 8\)
-
-Mari kita selesaikan persamaan ini dengan mengisolasi \(x\):
-
-\[ 2x = 12 \]
-
-\[ x = 6 \]
-
 Jadi, nilai \(x\) untuk persamaan linier adalah 6.
